@@ -1,0 +1,14 @@
+# Build output
+build/
+*.hex
+*.uf2
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Captures
+*.csv
+*.png

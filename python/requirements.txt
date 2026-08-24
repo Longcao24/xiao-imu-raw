@@ -1,0 +1,4 @@
+# BLE transport. 0.22 is the first release with the return_adv= scan API used here.
+bleak>=0.22
+# Only needed for plot_csv.py; read_imu.py works without it.
+matplotlib>=3.7
